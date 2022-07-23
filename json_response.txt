@@ -1,0 +1,15 @@
+200
+{
+    "items": [
+        {
+            "id": "Y2lzY29zcGFyazovL3VybjpURUFNOmV1LWNlbnRyYWwtMV9rL1JPT00vNzM5NmQ1NDAtZThjYy0xMWVjLTk0ZTUtNGIzMWYwZjU5NTZi",
+            "title": "Welcome Space",
+            "type": "group",
+            "isLocked": false,
+            "lastActivity": "2022-06-10T14:48:55.954Z",
+            "creatorId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9lMmQ2YWZkZC1iMDVmLTRiN2QtYmM3OS1kODczMTQzY2JmODI",
+            "created": "2022-06-10T14:48:55.188Z",
+            "ownerId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi8zNDcxN2U0My04ZTQzLTRmNTUtYjhlOS04Y2YyMWE5ZjQzMGQ"
+        }
+    ]
+}
