@@ -1,0 +1,11 @@
+200
+{
+    "id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvNTE1M2FlZjAtMGE5Zi0xMWVkLThmNTAtMWQxNWY1NTBmYjc1",
+    "roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vZTEyMTM4MjAtMGE5Yy0xMWVkLWI5NzktNTMwYmNhNGEwZjM5",
+    "toPersonEmail": "tofrench@webex.bot",
+    "roomType": "direct",
+    "text": "Hello comment ca va?",
+    "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9lMmQ2YWZkZC1iMDVmLTRiN2QtYmM3OS1kODczMTQzY2JmODI",
+    "personEmail": "mmayamba@gmail.com",
+    "created": "2022-07-23T15:51:29.887Z"
+}
