@@ -1,0 +1,6 @@
+NEW_HOST-100.38.56.12;host;100.38.56.12;description for this host;
+NEW_NET-200.100.176.0-21;subnet;200.100.176.0 255.255.248.0;description for this network;
+NEW_NET-200.100.50.0-24;subnet;200.100.50.0/24;description for this network;
+NEW_HOST-CORP_LAPTOP;host;172.40.166.228;description for this host;
+NEW_FQDN_www.test_fqdn.com;fqdn;www.test_fqdn.com;description for this fqdn host;
+NEW_RANGE_10.128.200.6-10.128.200.30;range;10.128.200.6-10.128.200.30;description for this range;
