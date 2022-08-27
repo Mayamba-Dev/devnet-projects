@@ -1,0 +1,17 @@
+import requests
+
+url = "https://sandboxdnac.cisco.com/api/v1/network-device"
+
+payload={}
+headers = {
+  'X-Auth-Token': 'eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MGVjNGU0ZjRjYTdmOTIyMmM4MmRhNjYiLCJhdXRoU291cmNlIjoiaW50ZXJuYWwiLCJ0ZW5hbnROYW1lIjoiVE5UMCIsInJvbGVzIjpbIjVlOGU4OTZlNGQ0YWRkMDBjYTJiNjQ4ZSJdLCJ0ZW5hbnRJZCI6IjVlOGU4OTZlNGQ0YWRkMDBjYTJiNjQ4NyIsImV4cCI6MTY2MTU5Njc1OSwiaWF0IjoxNjYxNTkzMTU5LCJqdGkiOiJhMTM3NDc5Yi0xYjYwLTQxZjQtYjIwMy0wYzYwZGViYmJkMjIiLCJ1c2VybmFtZSI6ImRldm5ldHVzZXIifQ.xiG6m1QEWsfd0Vm9g0BwpUIR87780qMYA_ya3BjtpJLAus2bAfVP8My9T2RK4pmTiR1oXMFMSIYAlAAJF0a2gShjhZ6rwIaArH91D6PQ8oLVJ5I57dG0yM59A1ZBaQbxv7r4SkkaMsyc8LXumCMg1pB90A4MuIyiiTmCDS4-r6iBm23lq1RgP-MOW_3awmHTQI1y2A0DbRVfbD4rUEbQSbPT8sAGtxTwkzzPlScrs9m0o9koR2W2Yqs8WbX36ZXYJMFd7tQhqf9r-Zem7uU7ust4bHg4Kie6e_pZKKzI4o25n7FGcs5N9YDc3QMCJuDsLRYiekkLd-eV4vPU8QD_0g',
+  'Authorization': 'Basic ZGV2bmV0dXNlcjpDaXNjbzEyMyE='
+}
+
+response = requests.request("GET", url, headers=headers, data=payload)
+
+print(response.text)
+
+
+
+
