@@ -1,0 +1,5 @@
+hostname                                  mgmt IP          serial      platformId        SW Version  role            Uptime         
+c3504.abc.inc                             10.10.20.51      FOL25040021 AIR-CT3504-K9     8.5.140.0   ACCESS          256 days, 3:32:09.00
+leaf1.abc.inc                             10.10.20.81      FCW2220G09V C9300-24U         17.3.3      ACCESS          47 days, 16:50:37.25
+leaf2.abc.inc                             10.10.20.82      FCW2211G0MA C9300-24U         16.11.1c    DISTRIBUTION    299 days, 23:44:13.78
+spine1.abc.inc                            10.10.20.80      FOC2135Z00T C9300-48U         16.11.1c    ACCESS          299 days, 23:36:22.20
